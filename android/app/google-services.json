@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848107087044",
+    "project_id": "my-firebase-project-6d0dc",
+    "storage_bucket": "my-firebase-project-6d0dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848107087044:android:d13f29167b256155581591",
+        "android_client_info": {
+          "package_name": "com.example.wecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848107087044-4dh04m09gf3v3t8k7a25fb39f7j1mhdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ2Z60xqPLPLSy68vx7dgLe49fsmcPivc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848107087044-4dh04m09gf3v3t8k7a25fb39f7j1mhdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
